@@ -20,5 +20,5 @@ Output: false
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	0 <= c <= 2^31 - 1
+	0 <= c <= 2^31 - 1 
 </ul>
